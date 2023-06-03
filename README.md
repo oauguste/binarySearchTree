@@ -1,0 +1,2 @@
+# binarySearchTree
+ A BST Algorithm
